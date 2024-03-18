@@ -12,3 +12,7 @@ with col2:
     content = """This is where I need to write something about myself"""
 
     st.info(content)
+
+content2 = """Below you can find some of my applications that I have built in Python. Please feel free to look around"""
+st.write(content2)
+
