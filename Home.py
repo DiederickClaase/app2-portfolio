@@ -10,7 +10,9 @@ with col2:
 
 with col1:
     st.title('Diederick Claase')
-    content = """This is where I need to write something about myself"""
+    content = """This is where I need to write something about myself, so let me write something about myself.
+    Wel, I am trying to learn how to write some Python Code, enrolled on Udemy for a Course and want to learn
+    more about coding. Wish me LUCK!!"""
     st.info(content)
 
 content2 = """Below you can find some of my applications that I have built in Python. Please feel free to look around"""
